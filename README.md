@@ -14,6 +14,8 @@
   - 開発アドバイザーとして従事（副業）
 - 2022.2 ~ 現在 Undesk,Inc
   - Unityエンジニアとしてバーチャルオフィスアプリの開発に従事（副業）
+- 2021 ~ 不定期　VR Professional Academy
+  - 外部講師として学生向けに授業を担当しています
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,arduino,aws,bash,c,cs,cpp,ruby,py,coffeescript,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,raspberrypi,swift,vim,visualstudio,vscode&perline=11)](https://skillicons.dev)
@@ -77,3 +79,8 @@
 - [【年末だよ】Unity お・と・なのLT大会 2021 運用プロダクトにおけるUITest運用の事例紹介](https://learning.unity3d.jp/8174/)
 - [BCU30 イケメンテックラボでのマルチプラットフォームARアプリ開発事例
 ](https://bcu30.jp/2019/booth/gcrest/)
+
+
+# Contact
+- [Twitter](https://twitter.com/Azukiidx)
+- [LinkedIn](https://www.linkedin.com/in/kazuaki-terabayashi-2a99ba184/)
