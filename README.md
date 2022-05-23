@@ -1,6 +1,7 @@
 # Profile
 - Graffity,Inc Unity Engineer.
 - ARゲームやソーシャルゲーム等を作ってます。CI/CDもそれなりに出来るよ。
+- Unityエンジニア名乗ってますがもともとDirectXとかOpenGLとか触ってたのでUnityじゃなくても仕事は出来ると思います。cocos2d-xも実務経験アリです（今時やらんけど）
 
 # Resume
 - 2018.4 ~ 2020.2 **CyberAgent株式会社**
