@@ -34,6 +34,7 @@
 # Article
 
 ### Qiita
+- [Github上のアクティブなPullRequestがあるときにSlackに通知するBotを作った](https://qiita.com/AzuQiita/items/80f8c5a97791ade3c12f)
 - [AppStoreConnectAPIを使ってProvisioningProfileのダウンロードを自動化する](https://qiita.com/AzuQiita/items/cc94f14a69215d15262c)
 - [俺だってLinuxでゲーム開発したいんだよ! Linux版UnityEditorを実務で使ってみた](https://qiita.com/AzuQiita/items/16ae1154e99c27731cb7)
 - [[Unity] AddressableAssetSystemの同期読み込み(Synchronous Addressables API)を試す](https://qiita.com/AzuQiita/items/a1192e5bd8987493af17)
