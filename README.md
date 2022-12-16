@@ -36,6 +36,7 @@
 # Article
 
 ### Qiita
+- [PhotonFusionを使って初めてゲーム開発をする上で知っておくと嬉しいTips集](https://qiita.com/AzuQiita/items/c6ca7c372e53c8435753)
 - [Github上のアクティブなPullRequestがあるときにSlackに通知するBotを作った](https://qiita.com/AzuQiita/items/80f8c5a97791ade3c12f)
 - [AppStoreConnectAPIを使ってProvisioningProfileのダウンロードを自動化する](https://qiita.com/AzuQiita/items/cc94f14a69215d15262c)
 - [俺だってLinuxでゲーム開発したいんだよ! Linux版UnityEditorを実務で使ってみた](https://qiita.com/AzuQiita/items/16ae1154e99c27731cb7)
