@@ -11,21 +11,23 @@
 
 
 # Resume
-- 2018.4 ~ 2020.2 **CyberAgent株式会社**
+- 2018.4 ~ 2020.2 [CyberAgent株式会社](https://www.cyberagent.co.jp/)
   - ゲーム事業部にて運用タイトル、新規タイトル、ARアプリなどの開発
-- 2019.8 ~ 2020.3 **Graffity株式会社**
+- 2019.8 ~ 2020.3 [Graffity株式会社](https://graffity.jp/)
   - 副業としてマルチプレイ型ARシューティングゲームの開発に従事
-- 2020.4 ~ 現在　**Graffity株式会社**
+- 2020.4 ~ 現在　[Graffity株式会社](https://graffity.jp/)
   - クライアントサイドのリードエンジニアとして入社　恐らく世界初の運用型マルチプレイARシューティングゲーム、LeapTriggerの開発に従事
   - 現在は別プロジェクトにて新規開発に従事
-- 2020.3 ~ 2021.3 Industry Technology
+- 2020.3 ~ 2021.3 [Industry Technology](https://industrytechnology.co/)
   - 開発アドバイザーとして従事（副業）
 - 2022.2 ~ 現在 Undesk,Inc
   - Unityエンジニアとしてバーチャルオフィスアプリの開発に従事（副業）
-- 2021 ~ 不定期　VR Professional Academy
+- 2021 ~ 不定期　[VR Professional Academy](https://vracademy.jp/)
   - 外部講師として学生向けに授業を担当しています
-- 2022.10 ~ 現在 DENDOH.Inc
+- 2022.10 ~ 現在 [DENDOH.Inc](https://dendoh.notion.site/DENDOH-9dc0aa38dd8f4c33b7adc0fa97a6bd80)
   - アバター作成アプリケーションMOLZのクライアント開発（副業）
+- 2023.02 ~ 現在 [株式会社イグニス](https://1923.co.jp/)
+  - 某モバイルゲームのUnityエンジニア（副業）
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,arduino,aws,bash,c,cs,cpp,ruby,py,coffeescript,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,raspberrypi,swift,vim,visualstudio,vscode&perline=11)](https://skillicons.dev)
@@ -36,6 +38,7 @@
 # Article
 
 ### Qiita
+- [PhotonFusionでRebuild Prefab TableをScriptから実行する方法](https://qiita.com/AzuQiita/items/50d220afdaa46343ccf5)
 - [PhotonFusionを使って初めてゲーム開発をする上で知っておくと嬉しいTips集](https://qiita.com/AzuQiita/items/c6ca7c372e53c8435753)
 - [Github上のアクティブなPullRequestがあるときにSlackに通知するBotを作った](https://qiita.com/AzuQiita/items/80f8c5a97791ade3c12f)
 - [AppStoreConnectAPIを使ってProvisioningProfileのダウンロードを自動化する](https://qiita.com/AzuQiita/items/cc94f14a69215d15262c)
