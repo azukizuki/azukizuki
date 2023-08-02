@@ -20,7 +20,7 @@
   - 現在は別プロジェクトにて新規開発に従事
 - 2020.3 ~ 2021.3 [Industry Technology](https://industrytechnology.co/)
   - 開発アドバイザーとして従事（副業）
-- 2022.2 ~ 現在 Undesk,Inc
+- 2022.2 ~ 2023.6 Undesk,Inc
   - Unityエンジニアとしてバーチャルオフィスアプリの開発に従事（副業）
 - 2021 ~ 不定期　[VR Professional Academy](https://vracademy.jp/)
   - 外部講師として学生向けに授業を担当しています
@@ -38,6 +38,7 @@
 # Article
 
 ### Qiita
+- [Unity】FirebaseCloudMessagingでAndroid端末PushTokenが受信出来なかった件](https://qiita.com/AzuQiita/items/e0c9c8bdb47c6f4525fa)
 - [PhotonFusionでRebuild Prefab TableをScriptから実行する方法](https://qiita.com/AzuQiita/items/50d220afdaa46343ccf5)
 - [PhotonFusionを使って初めてゲーム開発をする上で知っておくと嬉しいTips集](https://qiita.com/AzuQiita/items/c6ca7c372e53c8435753)
 - [Github上のアクティブなPullRequestがあるときにSlackに通知するBotを作った](https://qiita.com/AzuQiita/items/80f8c5a97791ade3c12f)
