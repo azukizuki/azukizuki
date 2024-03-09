@@ -12,11 +12,19 @@
 # Resume
 - 2018.4 ~ 2020.2 [CyberAgent株式会社](https://www.cyberagent.co.jp/)
   - ゲーム事業部にて運用タイトル、新規タイトル、ARアプリなどの開発
+    - [夢100](https://www.yume-100.com/)
+    - [星鳴エコーズ](https://www.hoshinari.jp/)
+    - [王子様に急接近AR](https://cgworld.jp/feature/201909-254-gcrest.html)
+    - など
 - 2019.8 ~ 2020.3 [Graffity株式会社](https://graffity.jp/)
   - 副業としてマルチプレイ型ARシューティングゲームの開発に従事
 - 2020.4 ~ 現在　[Graffity株式会社](https://graffity.jp/)
-  - クライアントサイドのリードエンジニアとして入社　恐らく世界初の運用型マルチプレイARシューティングゲーム、LeapTriggerの開発に従事
-  - 現在は別プロジェクトにて新規開発に従事
+  - クライアントサイドのリードエンジニアとして入社
+    - [LeapTrigger(US版)](https://leaptrigger.com/jp)
+    - [LeapTrigger(JP版)](https://leaptrigger.com/jp)
+    - [バブラッシュ!](https://twitter.com/mirrativ_jp/status/1579033952685158402)
+      - Mirrativ ライブゲーム(WebGL on Mobile)
+    - [LOST ANIMAL PLANET](https://xrcity.docomo.ne.jp/contents/lostanimalplanet/)
 - 2020.3 ~ 2021.3 [Industry Technology](https://industrytechnology.co/)
   - 開発アドバイザーとして従事（副業）
 - 2022.2 ~ 2023.6 [Undesk,Inc](https://undesk.space/)
