@@ -1,7 +1,7 @@
 # Profile
 - Graffity,Inc Unity Engineer.
-- ARゲームやソーシャルゲーム等を作ってます。CI/CDもそれなりに出来るよ。
-- Unityエンジニア名乗ってますがもともとDirectXとかOpenGLとか触ってたのでUnityじゃなくても仕事は出来ると思います。cocos2d-xも実務経験アリです（今時やらんけど）
+- ARゲームやソーシャルゲーム等を作ってます。基盤開発やCICD系の自動化などが得意領域です
+- Unityエンジニア名乗ってますがもともとDirectXとかOpenGLとか触ってたのでUnityじゃなくても仕事は出来ると思います。ネイティブよりなフレームワークだとcocos2d-xも実務経験アリです
 
 # お仕事依頼について
 - 週 8~16時間程度のコミットが可能です（本業の状況によりご相談させていただく場合がございます）
@@ -19,8 +19,12 @@
   - 現在は別プロジェクトにて新規開発に従事
 - 2020.3 ~ 2021.3 [Industry Technology](https://industrytechnology.co/)
   - 開発アドバイザーとして従事（副業）
-- 2022.2 ~ 2023.6 Undesk,Inc
+- 2022.2 ~ 2023.6 [Undesk,Inc](https://undesk.space/)
   - Unityエンジニアとしてバーチャルオフィスアプリの開発に従事（副業）
+- [Fondi](https://www.fondi.fun/top/ja)
+  - Unityエンジニアとして英会話プラットフォームの開発(副業)
+- [SWEAT,Inc](https://thesweat.jp/)
+  - Unityエンジニアとしてフィットネスアプリの基盤開発(副業)
 - 2021 ~ 不定期　[VR Professional Academy](https://vracademy.jp/)
   - 外部講師として学生向けに授業を担当しています
 - 2022.10 ~ 現在 [DENDOH.Inc](https://dendoh.notion.site/DENDOH-9dc0aa38dd8f4c33b7adc0fa97a6bd80)
