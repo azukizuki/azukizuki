@@ -1,13 +1,14 @@
 # Profile
-- Graffity,Inc Unity Engineer.
-- ARゲームやソーシャルゲーム等を作ってます。基盤開発やCICD系の自動化などが得意領域です
-- Unityエンジニア名乗ってますがもともとDirectXとかOpenGLとか触ってたのでUnityじゃなくても仕事は出来ると思います。ネイティブよりなフレームワークだとcocos2d-xも実務経験アリです
+- Graffity,Inc 所属　Unity Engineer.
+- ARゲームやソーシャルゲーム等を作ってます。
+- 基盤開発、課金、アセットバンドル配信基盤、CICDといった基盤実装系が得意領域です。ネイティブプラグインの実装なども一部経験あり。
+- 対応可能な環境としてはMac/win向けアプリケーション、iOS/Androidアプリケーション、 VisionProアプリケーション　に関しては端末所有してますので対応可能です。それ以外のVRヘッドセット及びARグラスに関してはご相談ください。
+- PJ人数が１００人近くの大規模プロジェクトから社長１人だけのスタートアップまで様々なプロジェクトでの業務経験があるので、幅広く対応可能です。
 
 # お仕事依頼について
-- 週 8~16時間程度のコミットが可能です（本業の状況によりご相談させていただく場合がございます）
-- ご依頼の際はTwitterDMでお願いします（LinkedInはヘッドハンターからのメッセージ多すぎてミュートにしてます...)
-- 時間単価の目安は4500/h ~ とさせていただいております。とはいえご相談できますのでご連絡いただけるとです。
-
+- 本業、育児などの都合もあるのですが月40 ~ 80h稼働が可能です
+- ご依頼の際はXのDMでお願いします（LinkedInはヘッドハンターからのメッセージ多すぎてミュートにしてます...)
+- 時間単価の目安は5000/h ~ とさせていただいております。とはいえ条件面は相談可能です。
 
 # Resume
 - 2018.4 ~ 2020.2 [CyberAgent株式会社](https://www.cyberagent.co.jp/)
@@ -35,15 +36,13 @@
   - Unityエンジニアとしてフィットネスアプリの基盤開発(副業)
 - 2021 ~ 不定期　[VR Professional Academy](https://vracademy.jp/)
   - 外部講師として学生向けに授業を担当しています
-- 2022.10 ~ 現在 [DENDOH.Inc](https://dendoh.notion.site/DENDOH-9dc0aa38dd8f4c33b7adc0fa97a6bd80)
+- 2022.10 ~ 2024.2 [DENDOH.Inc](https://dendoh.notion.site/DENDOH-9dc0aa38dd8f4c33b7adc0fa97a6bd80)
   - アバター作成アプリケーションMOLZのクライアント開発（副業）
 - 2023.02 ~ 現在 [株式会社イグニス](https://1923.co.jp/)
   - 某モバイルゲームのUnityエンジニア（副業）
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,arduino,aws,bash,c,cs,cpp,ruby,py,coffeescript,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,raspberrypi,swift,vim,visualstudio,vscode&perline=11)](https://skillicons.dev)
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azukizuki&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # Article
@@ -97,9 +96,9 @@
 
 ### インタビュー・メディア掲載
 - [イケメンテックラボが展開する王子様に会えるARアプリ『王子様に急接近AR』(CG WORLD様)](https://cgworld.jp/feature/201909-254-gcrest.html)
-
 - [衝撃のリアル感と作り込みは，想像を遥かに超えていた――「王子様に急接近AR」体験レポート＆開発者コメント (4Gamer様)](https://www.4gamer.net/games/470/G047069/20190711065/)
 - [CG WORLD Vol.254 インタビュー掲載](https://cgworld.jp/magazine/cgw254.html)
+- [リードエンジニアが語る、Unity開発環境と組織体制の裏側とは。【Graffity 社員インタビュー vol.6】](https://note.com/graffity/n/nc306ad544b12)
 
 ### 登壇
 - [RoppongiUnity #9  AddressableAssetSystemをプロダクトで使ってみた](https://speakerdeck.com/azukizuki/roppongi-dot-unity-number-9-addressableassetsystemwopurodakutodeshi-tutemita)
@@ -109,5 +108,5 @@
 
 
 # Contact
-- [Twitter](https://twitter.com/Azukiidx)
+- [ X ](https://twitter.com/Azukiidx)
 - [LinkedIn](https://www.linkedin.com/in/kazuaki-terabayashi-2a99ba184/)
