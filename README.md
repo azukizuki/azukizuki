@@ -14,30 +14,39 @@
 - 2018.4 ~ 2020.2 [CyberAgent株式会社](https://www.cyberagent.co.jp/)
   - ゲーム事業部にて運用タイトル、新規タイトル、ARアプリなどの開発
     - [夢100](https://www.yume-100.com/)
+      - アウトゲーム開発
     - [星鳴エコーズ](https://www.hoshinari.jp/)
+      - アウトゲーム開発、イベント実装など  
     - [王子様に急接近AR](https://cgworld.jp/feature/201909-254-gcrest.html)
+      - アプリ全般のロジック実装、CICD構築など
     - など
+    
 - 2019.8 ~ 2020.3 [Graffity株式会社](https://graffity.jp/)
   - 副業としてマルチプレイ型ARシューティングゲームの開発に従事
 - 2020.4 ~ 現在　[Graffity株式会社](https://graffity.jp/)
   - クライアントサイドのリードエンジニアとして入社
     - [LeapTrigger(US版)](https://leaptrigger.com/jp)
     - [LeapTrigger(JP版)](https://leaptrigger.com/jp)
+      - 進行管理、課金実装、リソース基盤実装、アウトゲーム、インゲーム開発、CICD
     - [バブラッシュ!](https://twitter.com/mirrativ_jp/status/1579033952685158402)
       - Mirrativ ライブゲーム(WebGL on Mobile)
+      -　WebGL最適化、CICD、アウトゲーム全般、インゲームのギフトロジック周り、WebSocket通信基盤など
     - [LOST ANIMAL PLANET](https://xrcity.docomo.ne.jp/contents/lostanimalplanet/)
 - 2020.3 ~ 2021.3 [Industry Technology](https://industrytechnology.co/)
   - 開発アドバイザーとして従事（副業）
 - 2022.2 ~ 2023.6 [Undesk,Inc](https://undesk.space/)
   - Unityエンジニアとしてバーチャルオフィスアプリの開発に従事（副業）
+  - Agoraを用いた通話などの検証、生産性の可視化機能の実装、アプリのビルド自動化など
 - [Fondi](https://www.fondi.fun/top/ja)
   - Unityエンジニアとして英会話プラットフォームの開発(副業)
 - [SWEAT,Inc](https://thesweat.jp/)
   - Unityエンジニアとしてフィットネスアプリの基盤開発(副業)
+  - アプリ開発の立ち上げフェーズからリリースまでほぼ全ての基板実装とUI実装などを実施
 - 2021 ~ 不定期　[VR Professional Academy](https://vracademy.jp/)
   - 外部講師として学生向けに授業を担当しています
 - 2022.10 ~ 2024.2 [DENDOH.Inc](https://dendoh.notion.site/DENDOH-9dc0aa38dd8f4c33b7adc0fa97a6bd80)
   - アバター作成アプリケーションMOLZのクライアント開発（副業）
+    - すべての基盤実装、CICDでのビルドイテレーション高速化、マスタデータ配信基盤なども整備
 - 2023.02 ~ 現在 [株式会社イグニス](https://1923.co.jp/)
   - 某モバイルゲームのUnityエンジニア（副業）
 
