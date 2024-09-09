@@ -32,6 +32,11 @@
       - Mirrativ ライブゲーム(WebGL on Mobile)
       -　WebGL最適化、CICD、アウトゲーム全般、インゲームのギフトロジック周り、WebSocket通信基盤など
     - [LOST ANIMAL PLANET](https://xrcity.docomo.ne.jp/contents/lostanimalplanet/)
+      - ほぼ全ての基盤レイヤー実装
+      - AssetBundle配信基盤
+      - マスタデータ基盤
+      - アウトゲーム基盤
+      - サーバー間通信基盤など
 - 2020.3 ~ 2021.3 [Industry Technology](https://industrytechnology.co/)
   - 開発アドバイザーとして従事（副業）
 - 2022.2 ~ 2023.6 [Undesk,Inc](https://undesk.space/)
@@ -57,6 +62,7 @@
 # Article
 
 ### Qiita
+- [UnityでAndroidのアプリをビルドする際にアイコンを漏れなく設定しておくコード](https://qiita.com/AzuQiita/items/354b40e2d32210474b82)
 - [Unity】FirebaseCloudMessagingでAndroid端末PushTokenが受信出来なかった件](https://qiita.com/AzuQiita/items/e0c9c8bdb47c6f4525fa)
 - [PhotonFusionでRebuild Prefab TableをScriptから実行する方法](https://qiita.com/AzuQiita/items/50d220afdaa46343ccf5)
 - [PhotonFusionを使って初めてゲーム開発をする上で知っておくと嬉しいTips集](https://qiita.com/AzuQiita/items/c6ca7c372e53c8435753)
@@ -110,6 +116,7 @@
 - [リードエンジニアが語る、Unity開発環境と組織体制の裏側とは。【Graffity 社員インタビュー vol.6】](https://note.com/graffity/n/nc306ad544b12)
 
 ### 登壇
+- [Unity CICD完全に理解した勉強会](https://unity-fully-understood.connpass.com/event/324346/)
 - [RoppongiUnity #9  AddressableAssetSystemをプロダクトで使ってみた](https://speakerdeck.com/azukizuki/roppongi-dot-unity-number-9-addressableassetsystemwopurodakutodeshi-tutemita)
 - [【年末だよ】Unity お・と・なのLT大会 2021 運用プロダクトにおけるUITest運用の事例紹介](https://learning.unity3d.jp/8174/)
 - [BCU30 イケメンテックラボでのマルチプラットフォームARアプリ開発事例
