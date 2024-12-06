@@ -73,6 +73,7 @@ PJ人数が１００人近くの大規模プロジェクトから社長１人だ
 # Article
 
 ### Qiita
+- [[Unity Addressables] 結局Addressablesでリソースダウンロード・リソース更新を行うにはどうしたら良いの？という貴方へ](https://qiita.com/AzuQiita/items/e00c5fbb0711c01d8ed6)
 - [UnityでAndroidのアプリをビルドする際にアイコンを漏れなく設定しておくコード](https://qiita.com/AzuQiita/items/354b40e2d32210474b82)
 - [Unity】FirebaseCloudMessagingでAndroid端末PushTokenが受信出来なかった件](https://qiita.com/AzuQiita/items/e0c9c8bdb47c6f4525fa)
 - [PhotonFusionでRebuild Prefab TableをScriptから実行する方法](https://qiita.com/AzuQiita/items/50d220afdaa46343ccf5)
