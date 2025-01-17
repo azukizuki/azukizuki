@@ -64,6 +64,7 @@ PJ人数が１００人近くの大規模プロジェクトから社長１人だ
     - すべての基盤実装、CICDでのビルドイテレーション高速化、マスタデータ配信基盤なども整備
 - 2023.02 ~ 現在 [株式会社イグニス](https://1923.co.jp/)
   - 某モバイルゲームのUnityエンジニア（副業）
+  - 基盤改修など
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,arduino,aws,bash,c,cs,cpp,ruby,py,coffeescript,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,raspberrypi,swift,vim,visualstudio,vscode&perline=11)](https://skillicons.dev)
@@ -88,17 +89,7 @@ PJ人数が１００人近くの大規模プロジェクトから社長１人だ
 - [Unityでレンダリングテクスチャを作る](https://qiita.com/AzuQiita/items/2cfae892f12582a0acef)
 - [ArduinoでLEDテープを光らせて遊ぶ](https://qiita.com/AzuQiita/items/5fc019dd6683150ee4b4)
 - [DOTweenのコールバックをいくつか紹介](https://qiita.com/AzuQiita/items/822e382473e6c0db8237)
-- [UnityのClothを使っておっぱいを作る](https://qiita.com/AzuQiita/items/664f103f0dbd4adbcaca)
 - [slackをいつまでも見ないメンバーのためにLINEで通知するbotをお手軽に作る](https://qiita.com/AzuQiita/items/35f43b8a5609f037bbef)
-
-### Note
-- [とりあえずAddressablesAssetSystem使ってみたい人向け導入解説](https://note.com/graffity/n/na33fd638be48?magazine_key=m896f454ae562)
-- [とりあえずAddressablesAssetSystem使ってみたい人向け導入解説2！ S3を使ってアセットを配信してみよう](https://note.com/graffity/n/n8620f244894a?magazine_key=m896f454ae562)
-- [JenkinsでUnityアプリを自動ビルドして開発効率をあげよう！　Part.1 Jenkins導入編
-](https://note.com/graffity/n/nfa601ab48c97?magazine_key=m896f454ae562)
-- [JenkinsでUnityアプリを自動ビルドして開発効率をあげよう！　Part.2 アプリビルド(Android)編
-](https://note.com/graffity/n/n9afca9154c50?magazine_key=m896f454ae562)
-- [Leap Triggerの仮説検証を支えた開発効率を促進させる取り組み](https://note.com/graffity/n/n4cf88d1a7a62)
 
 ### 技術ブログ（CA時代のエンジニアブログ）
 - [UnityでAR -ARCoreを使う-](https://blog.gcrest.com/archives/128)
