@@ -23,9 +23,26 @@ PJ人数が１００人近くの大規模プロジェクトから社長１人だ
     - [王子様に急接近AR](https://cgworld.jp/feature/201909-254-gcrest.html)
       - アプリ全般のロジック実装、CICD構築など
     - など
-    
+  - 業務内容・スキルなど
+    - unity2019~2020を利用したソーシャルゲーム開発
+      - 新規プロダクトのアウトゲーム開発
+      - 運用中のイベント機能実装
+      - ARアプリの開発
+        - ARKitSDK/ARCoreSDK (現在は廃止されARFoundationに統一)を利用した２OSで利用可能なARコンテンツアプリの実装及び開発
+    - cocos2dx v3系を採用した運用タイトルの運用業務
+      - 新規UI実装や機能追加など
+    - Jenkinsを利用したUnityアプリの自動ビルドの仕組みの構築
+    - 新卒育成へのコミット、研修等の対応
+    - 外部イベント登壇
+  
 - 2019.8 ~ 2020.3 [Graffity株式会社](https://graffity.jp/)
   - 副業としてマルチプレイ型ARシューティングゲームの開発に従事
+  - 業務内容・スキルなど
+    - Unity2019を利用したARシューティングアプリの開発
+      - 新機能実装やPhotonを利用したマルチプレイの不具合修正など
+    - Jenkinsを利用したUnityアプリの自動ビルドの仕組みの構築
+      - CloudBuildに依存し１イテレーション１時間以上かかっていた動作確認フローを10分程度まで削減
+  
 - 2020.4 ~ 現在　[Graffity株式会社](https://graffity.jp/)
   - クライアントサイドのリードエンジニアとして入社
     - [LeapTrigger(US版)](https://leaptrigger.com/jp)
@@ -40,14 +57,56 @@ PJ人数が１００人近くの大規模プロジェクトから社長１人だ
       - マスタデータ基盤
       - アウトゲーム基盤
       - サーバー間通信基盤など
+      - サーバー実装
+  - 業務内容・スキルなど
+    - Unity2019~Unity6を利用したソーシャルゲーム・ARコンテンツ・VisionProアプリの開発
+      - AssetBundle配信基盤やマスタデータ基盤、数年に及ぶ運用に耐えれるだけの基盤及びCICD構築
+      - UIテストの自動実行やテストランナーの自動実行対応
+      - WebGLを利用したモバイルゲームの開発
+      - ProtocolBuffersのbyte配列を利用したサーバー間通信
+      - gRPC + YetAnotherHttpHandlerを利用した通信シーケンスの実装
+      - UnityIAPを用いた課金実装
+      - WebSocketを用いたサーバーPush通信
+      - FirebaseCloudMessagingを用いたPush通知対応
+      - FirebaseAuthを用いた認証実装
+      - Polyspatialを用いたVisionOS向けアプリの実装
+      - Photon , PhotonFusionを用いたマルチプレイ基盤の実装
+      - マルチプレイARアプリの社内開発基盤の整理(PhotonFusionの上に乗る形での実装)
+      - MVRPなアーキテクチャの採用
+      - Protoプラグインを用いた独自スクリプトの自動生成
+    - Ruby on Rails / Golangを用いたサーバーアプリケーション開発
+      - 運用アプリのサーバー新規実装とクライアントのつなぎこみ対応
+      - gRPCを用いたリアルタイム通信基盤の開発とクライアントつなぎこみ対応
+      - Terraformを利用したインフラ管理
+    - C#を用いた開発支援ツールの実装
+      - .net9で実装
+      - Unityを利用せずにシーケンスの検証をするツールなど
+    - Pythonを用いた社内ツールの実装
+      - 社内向け施策のSlackBotなどの開発。AWS/GCPへデプロイし社内展開など
+    - GithubActions/Gilab-ciを利用したプロジェクト支援CIの実装
+      - PullRequestのレビュー必須化ジョブ
+      - マージをトリガーとするサーバーデプロイジョブ
+      - PullRequestのレビュー漏れをメンバーに周知するSlackBot
+      - タスクチケットとPRを紐づけてQA進行状況を更新する仕組みの整備など
+    - 育成・マネジメント
+      - エンジニアとの1on1の実施
+      - 採用関係でのコミット
+      - 外部イベント登壇　など
 - 2020.3 ~ 2021.3 [Industry Technology](https://industrytechnology.co/)
   - 開発アドバイザーとして従事（副業）
 - 2022.2 ~ 2023.6 [Undesk,Inc](https://undesk.space/)
   - Unityエンジニアとしてバーチャルオフィスアプリの開発に従事（副業）
   - Agoraを用いた通話などの検証、生産性の可視化機能の実装、アプリのビルド自動化など
+  - 業務内容・スキルなど
+    - Unity2020を利用したPCアプリの開発
+    - Agoraなどの通信ハンドリング
+    - Gitlab-ciを用いたアプリケーション自動ビルドの構築
 - [Fondi](https://www.fondi.fun/top/ja)
   - Unityエンジニアとして英会話プラットフォームの開発(副業)
-- [SWEAT,Inc](https://thesweat.jp/)
+  - 業務内容・スキルなど
+    - Unityアップデート検証、GooglePlayAssetDeliveryの検証など
+    - ネイティブプラグインの実装・改修
+- [SWEAT,Inc / NEWL.Inc](https://thesweat.jp/)
   - Unityエンジニアとしてフィットネスアプリの基盤開発(副業)
   - アプリ開発の立ち上げフェーズからリリースまでほぼ全ての基板実装とUI実装などを実施
 - 2021 ~ 不定期　[VR Professional Academy](https://vracademy.jp/)
@@ -55,12 +114,64 @@ PJ人数が１００人近くの大規模プロジェクトから社長１人だ
 - 2022.10 ~ 2024.2 [DENDOH.Inc](https://dendoh.notion.site/DENDOH-9dc0aa38dd8f4c33b7adc0fa97a6bd80)
   - アバター作成アプリケーションMOLZのクライアント開発（副業）
     - すべての基盤実装、CICDでのビルドイテレーション高速化、マスタデータ配信基盤なども整備
+  - 業務内容・スキルなど
+    - PlayFabを用いたサーバーレスアプリケーションの開発
+    - マスタデータの自動ビルドの仕組みとクライアント内での利用機能の実装
+    - 将来を見越したAssetBundle基盤の実装
+    - View/Modelの分離と設計及び依存関係の最適化の実施
 - 2023.02 ~ 現在 [株式会社イグニス](https://1923.co.jp/)
   - 某モバイルゲームのUnityエンジニア（副業）
   - 基盤改修など
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,arduino,aws,bash,c,cs,cpp,ruby,py,coffeescript,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,raspberrypi,swift,vim,visualstudio,vscode&perline=11)](https://skillicons.dev)
+- 言語
+  - C
+  - C++
+  - C#
+  - Python
+  - Ruby
+  - Go
+  - Swift
+  - Java
+  - Kotlin
+  - Shell
+  - CoffeeScript
+  - Groovy
+  - Rust (業務経験なし)
+  - アセンブラ(6502) (趣味)
+- フレームワーク
+  - Unity5~
+  - UnrealEngine (プロジェクトでの利用経験なし、社内検証はあり)
+  - Cocos2d-x v3以降
+  - Ruby on rails
+  - flask
+  - .net
+  - Terraform
+  - DirectX9 ~ 11 (業務経験なし)
+  - OpenGL (業務経験なし)
+  - WebSocket
+  - gRPC
+  - ProtocolBuffers
+- ソフトウェア
+  - Xcode
+  - VisualStudio
+  - AndroidStudio
+  - JetBrains Rider
+  - JetBrains PyCharm
+  - JetBrains RubyMine
+  - JetBrains GoLand
+  - CLion
+  - Cursor
+  - Figma
+  - Miro
+  - git
+  - fish
+  - Docker
+- インフラ
+  - aws
+  - gcp
+  - azure
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azukizuki&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # Article
