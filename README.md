@@ -231,5 +231,5 @@ PJ人数が１００人近くの大規模プロジェクトから社長１人だ
 
 
 # Contact
-- [ X ](https://twitter.com/Azukiidx)
+- [ X ](https://twitter.com/4zukizuki)
 - [LinkedIn](https://www.linkedin.com/in/kazuaki-terabayashi-2a99ba184/)
